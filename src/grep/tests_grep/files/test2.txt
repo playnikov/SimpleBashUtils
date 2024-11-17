@@ -1,0 +1,34 @@
+START
+ABC
+aBc
+abc
+AbC abc ABC
+
+123
+321
+
+    tabs abc a b c
+    tabs 123
+    tabs 23124 .. / .. /
+    d
+    as
+    dsa
+
+    dsa
+    definesa
+    dsa
+    2144
+    14
+    2124
+    15
+    3252
+      
+       
+
+	asdsa 
+	STARTd asdsa
+
+
+
+                                
+END >

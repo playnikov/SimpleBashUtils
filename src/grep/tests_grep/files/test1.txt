@@ -1,0 +1,11 @@
+START
+ABC
+aBc
+abc
+AbC abc ABC AbC
+
+123
+321
+
+	tabs
+END
